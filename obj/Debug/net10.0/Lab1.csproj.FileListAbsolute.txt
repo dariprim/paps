@@ -1,0 +1,14 @@
+/Users/dariprim/Documents/paps/lab1/bin/Debug/net10.0/Lab1
+/Users/dariprim/Documents/paps/lab1/bin/Debug/net10.0/Lab1.deps.json
+/Users/dariprim/Documents/paps/lab1/bin/Debug/net10.0/Lab1.runtimeconfig.json
+/Users/dariprim/Documents/paps/lab1/bin/Debug/net10.0/Lab1.dll
+/Users/dariprim/Documents/paps/lab1/bin/Debug/net10.0/Lab1.pdb
+/Users/dariprim/Documents/paps/lab1/obj/Debug/net10.0/Lab1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dariprim/Documents/paps/lab1/obj/Debug/net10.0/Lab1.AssemblyInfoInputs.cache
+/Users/dariprim/Documents/paps/lab1/obj/Debug/net10.0/Lab1.AssemblyInfo.cs
+/Users/dariprim/Documents/paps/lab1/obj/Debug/net10.0/Lab1.csproj.CoreCompileInputs.cache
+/Users/dariprim/Documents/paps/lab1/obj/Debug/net10.0/Lab1.dll
+/Users/dariprim/Documents/paps/lab1/obj/Debug/net10.0/refint/Lab1.dll
+/Users/dariprim/Documents/paps/lab1/obj/Debug/net10.0/Lab1.pdb
+/Users/dariprim/Documents/paps/lab1/obj/Debug/net10.0/Lab1.genruntimeconfig.cache
+/Users/dariprim/Documents/paps/lab1/obj/Debug/net10.0/ref/Lab1.dll
